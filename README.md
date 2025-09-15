@@ -35,6 +35,8 @@ The work is divided into two main phases:
 **Joint Segmentation and Classification**
 <img width="364" height="306" alt="image" src="https://github.com/user-attachments/assets/30cb7142-fde3-47b8-bcea-c5f146d4574a" />
 
+---
+
 **Attn-UNet**
 <img width="811" height="569" alt="image" src="https://github.com/user-attachments/assets/301a88c0-caaf-475d-baf7-8d290ba141ad" />
 
